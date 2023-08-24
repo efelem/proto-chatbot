@@ -1,4 +1,7 @@
-# OpenSource Chatbot Gradio Interface 
+# Proto-Chatbot 
+
+- OpenSource Chatbot Gradio Interface 
+- Can run locally or on DeepSquare distributed super computer 
 
 ## Setup
 

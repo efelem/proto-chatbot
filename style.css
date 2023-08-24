@@ -1,0 +1,58 @@
+.conversations {
+    border-radius: 0 !important;
+    font-size: smaller !important;
+    background: transparent !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+}
+
+
+@media (max-width: 767px) {
+
+    /* Styles for screens below 600 pixels wide */
+    #chatbot {
+        min-height: 30vh;
+        width: 92vw;
+    }
+}
+
+
+@media (min-width: 768px) {
+
+    /* Styles for screens below 600 pixels wide */
+    #chatbot {
+        min-height: 86vh;
+    }
+}
+
+
+.wrap.svelte-13f7djk {
+    height: 100% !important;
+    max-height: 100% !important;
+}
+
+.message * {
+    word-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.message p {
+    font-size: 14px !important;
+}
+
+.message pre {
+    font-size: 12px !important;
+}
+
+.message {
+    width: 90% !important;
+    overflow-wrap: break-word !important;
+    font-size: 14px !important;
+}
+
+#logo {
+    bottom: 0px;
+    position: absolute;
+    margin-left: 33%;
+}

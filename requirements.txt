@@ -1,0 +1,15 @@
+accelerate==0.17.1
+basaran==0.17.2
+bitsandbytes==0.37.2
+ipdb==0.13.13
+gradio==3.28.2
+protobuf==3.20.3
+py3nvml==0.2.7
+rich==13.3.2
+sentencepiece==0.1.97
+tenacity==8.2.2
+toml==0.10.2
+safetensors==0.3.0
+torch==2.0.0
+git+https://github.com/huggingface/transformers@d04ec99bec8a0b432fc03ed60cea9a1a20ebaf3c
+python-dotenv==0.19.2

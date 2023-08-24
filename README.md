@@ -1,4 +1,4 @@
-# Alpaca Chatbot Demo
+# OpenSource Chatbot Gradio Interface 
 
 ## Setup
 
